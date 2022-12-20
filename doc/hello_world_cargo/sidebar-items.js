@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["add",""],["cosfun",""],["cube",""],["cuberoot",""],["div",""],["factorial",""],["log",""],["main",""],["modules",""],["mul",""],["sinfun",""],["square",""],["squareroot",""],["sub",""],["tanfun",""]]};
